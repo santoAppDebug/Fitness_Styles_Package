@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 class KStyles {
-//
-//!---<<<< Clash_Display_Thin >>>>
+
   Text thin10({required String text, Color color = Colors.black, double? height}) {
     return Text(
       text,
